@@ -32778,7 +32778,6 @@
 		7E76BEC7085757B70073649A /* Development */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_WARN_EMPTY_BODY = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
@@ -33327,7 +33326,6 @@
 		CE5314AB0C717C3000A2B75F /* Deployment 32-bit */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_WARN_EMPTY_BODY = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
@@ -33619,7 +33617,6 @@
 		CE5314B60C717C3000A2B75F /* Deployment 64-bit */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_WARN_EMPTY_BODY = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
